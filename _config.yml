@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: mm1kuu # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+about-author: Java / 大数据 / 人工智能
 
 # Contact links
 email: cjm.git@outlook.com # Add your Email address
@@ -46,9 +46,9 @@ analytics: G-R8SZS2YBZK
 fbadmin: ar.maybach
 
 # Paginate
-paginate: 12
+paginate: 8
 paginate_path: 'page:num'
-words_per_minute: 300
+words_per_minute: 600
 
 extensions:
   mermaid_enable: true
