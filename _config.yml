@@ -46,15 +46,15 @@ analytics: G-R8SZS2YBZK
 fbadmin: ar.maybach
 
 # Paginate
-paginate: 6
+paginate: 12
 paginate_path: 'page:num'
-words_per_minute: 200
+words_per_minute: 300
 
 extensions:
   mermaid_enable: true
 
 # Comments
-comments: utteranc  #[disqus, utteranc]
+comments: # utteranc  #[disqus, utteranc]
 comments_opts:
   comments_curtain: yes # leave empty to show the disqus embed directly
   repo: # The GitHub repo URL.  https://utteranc.es/
@@ -70,7 +70,7 @@ mathjax: true
 highlighter: rouge
 compress_html:
   clippings: all
-  comments: all
+  # comments: all
   startings: [html, head, body]
 
 # Outputting
